@@ -5,4 +5,12 @@
     <string name="btn_left">좌측</string>
     <string name="btn_right">우측</string>
     <string name="btn_center">중앙</string>
+    <string name="btn_base">기준위젯</string>
+    <string name="btn_1">1번</string>
+    <string name="btn_2">2번</string>
+    <string name="btn_3">3번</string>
+    <string name="btn_4">4번</string>
+    <string name="btn_5">5번</string>
+    <string name="btn_6">6번</string>
+    <string name="btn_7">7번</string>
 </resources>
